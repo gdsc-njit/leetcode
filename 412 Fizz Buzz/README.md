@@ -1,7 +1,7 @@
 # 412. Fizz Buzz
 
 > Link: [https://leetcode.com/problems/fizz-buzz/](https://leetcode.com/problems/fizz-buzz/)\
-> Solution: [Python](main.py) | [C++](main.cpp) | [Java](main.cpp)
+> Solution: [Python](main.py) | [C++](main.cpp) | [Java](main.java)
 
 Given an integer `n`, return a *string array* `answer` **(1-indexed)** where:
 
